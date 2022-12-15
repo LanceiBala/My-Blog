@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Bala Blog # Website name
-baseURL: 'https://balafane.netlify.app/' # Website URL
+baseURL: 'https://balakefane.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
